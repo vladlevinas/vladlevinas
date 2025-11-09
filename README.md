@@ -4,7 +4,7 @@
 
 I build software and write about tech. Mostly...  
 
-![snake gif](https://raw.githubusercontent.com/athrael-soju/athrael-soju/output/snake.svg)
+![snake gif](https://raw.githubusercontent.com/vladlevinas/vladlevinas/output/snake.svg)
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://3f.media)
