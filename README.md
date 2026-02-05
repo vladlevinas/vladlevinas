@@ -1,12 +1,12 @@
 <div align="center">
+# 👋 Hi, I'm Vladimiras Levinas
 
+**Lead DevOps Engineer | AI Infrastructure | Kubernetes & GitOps Specialist**
 
 ![snake gif](https://raw.githubusercontent.com/vladlevinas/vladlevinas/output/snake.svg)
 <br/>
 
-# 👋 Hi, I'm Vladimiras Levinas
 
-**Lead DevOps Engineer | AI Infrastructure | Kubernetes & GitOps Specialist**
 
 📍 Vilnius, Lithuania | 📧 levin@linux.com | 📱 +370 614 28752
 
