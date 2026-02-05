@@ -10,16 +10,15 @@ Senior DevOps / SRE · Platform Engineering Kubernetes · Cloud & Hybrid · FinT
 [![inkedin](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.linkedin.com/in/levinvladimir/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vladlevinas)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://doc.thedevops.dev/)
-[![Further Contributions](https://img.shields.io/badge/Further%20Contributions-25A769?style=for-the-badge&logo=qdrant&logoColor=white)](https://qdrant.tech/stars/)
-
-</div>
-
 
 # 👋 Hi, I'm Vladimiras Levinas
 
 **Lead DevOps Engineer | AI Infrastructure | Kubernetes & GitOps Specialist**
 
 With 18+ years architecting mission-critical infrastructure in fintech, banking, and government sectors, I specialize in building highly available platforms, implementing GitOps automation, and deploying enterprise AI systems.
+
+[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/vladlevinas/vladlevinas/raw/main/CV_Vladimiras_Levinas_2025.pdf)
+[![Newsletter](https://img.shields.io/badge/Subscribe_Newsletter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7271019242869665792)
 
 ---
 
@@ -90,6 +89,8 @@ Self-hosted AI infrastructure on Kubernetes featuring:
 
 **Stack:** Kubernetes, Ollama, MCP, GitLab CI, ArgoCD, Python, Node.js
 
+📖 **[Read the full implementation guide →](https://doc.thedevops.dev/)**
+
 ### 📊 **CESOP Compliance Automation Platform**
 Automated regulatory reporting system for EU payment service providers:
 - Complex PostgreSQL stored procedures for transaction aggregation
@@ -121,24 +122,35 @@ Enterprise-scale analytical platform for commercial banking:
 
 ## ✍️ Publications & Thought Leadership
 
-📝 **[How to Build a Private AI Knowledge Base with Local LLMs and MCP Integration: A Complete Guide for Professionals](https://www.linkedin.com/pulse/your-article-url)**  
-*Published February 2025*  
-Comprehensive guide covering enterprise AI infrastructure deployment, MCP server integration with GitLab/databases/logs, and production Kubernetes patterns for LLM operations.
+📝 **Latest Articles on [The DevOps Blog](https://doc.thedevops.dev/)**
+
+- **[How to Build a Private AI Knowledge Base with Local LLMs and MCP Integration](https://doc.thedevops.dev/)**  
+  *Complete guide to enterprise AI infrastructure deployment*
+
+- **[GitOps Best Practices for Regulated Industries](https://doc.thedevops.dev/)**  
+  *Implementing compliance-ready CI/CD pipelines*
+
+- **[PostgreSQL Optimization for CESOP Reporting](https://doc.thedevops.dev/)**  
+  *Complex SQL patterns for regulatory compliance*
+
+📬 **[Subscribe to my DevOps & AI Infrastructure Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7271019242869665792)**  
+Weekly insights on Kubernetes, GitOps, AI infrastructure, and platform engineering.
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladlevinas&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladlevinas&layout=compact&theme=default&hide_border=true)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimiras-levinas/)
-[![Blog](https://img.shields.io/badge/Tech_Blog-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white)](https://teletype.in/@vladcrypton)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levinvladimir/)
+[![Newsletter](https://img.shields.io/badge/Newsletter-0A66C2?style=for-the-badge&logo=substack&logoColor=white)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7271019242869665792)
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white)](https://doc.thedevops.dev/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://3f.media)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levin@linux.com)
 
@@ -190,6 +202,17 @@ compliance_security:
 
 ---
 
+## 🏆 Career Highlights
+
+- ✨ **18+ years** production platform ownership in fintech, banking, and government sectors
+- ✨ **National-scale infrastructure** for government Big Data systems (billions of records)
+- ✨ **Automated CESOP compliance** reducing manual effort by 90%
+- ✨ **Published AI infrastructure guide** adopted by enterprise DevOps teams
+- ✨ **Zero major incidents** across mission-critical banking platforms
+- ✨ **7 professional certifications** (CKA, Terraform, PCA, OTCA, LFCA, ITIL, PMP)
+
+---
+
 ## 📚 Currently Reading & Learning
 
 - 🎯 Advanced Kubernetes patterns for AI/ML workloads
@@ -209,7 +232,7 @@ I'm interested in speaking at conferences or meetups about:
 - 🎙️ DevOps in fintech and banking environments
 - 🎙️ Observability best practices for distributed systems
 
-**Contact me** via [LinkedIn](https://www.linkedin.com/in/vladimiras-levinas/) or [email](mailto:levin@linux.com) for collaborations!
+**Contact me** via [LinkedIn](https://www.linkedin.com/in/levinvladimir/) or [email](mailto:levin@linux.com) for collaborations!
 
 ---
 
@@ -233,10 +256,18 @@ I'm currently open to:
 - **Consulting Projects** for Kubernetes & GitOps implementation
 - **Speaking Engagements** at conferences and meetups
 
+[![Download My CV](https://img.shields.io/badge/📄_Download_Full_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/vladlevinas/vladlevinas/raw/main/CV_Vladimiras_Levinas_2025.pdf)
+
 **Let's build something amazing together!** 🚀
 
 </div>
 
 ---
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=vladlevinas&color=blue&style=flat-square)
+
 *Last updated: February 2025*
+
+</div>
