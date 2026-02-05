@@ -1,8 +1,5 @@
 <div align="center">
 
-# Hi, I'm Vlad Levinas 👋
-
-Senior DevOps / SRE · Platform Engineering Kubernetes · Cloud & Hybrid · FinTech & Banking | 20+ years building mission-critical systems...  
 
 ![snake gif](https://raw.githubusercontent.com/vladlevinas/vladlevinas/output/snake.svg)
 <br/>
