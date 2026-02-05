@@ -4,7 +4,7 @@
 ![snake gif](https://raw.githubusercontent.com/vladlevinas/vladlevinas/output/snake.svg)
 <br/>
 
-# 👋 Hi, I'm Vladimiras Levinas
+# 👋 Hi, I'm Vlad Levinas
 
 **Lead DevOps Engineer | AI Infrastructure | Kubernetes & GitOps Specialist**
 
