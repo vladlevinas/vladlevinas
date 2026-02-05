@@ -1,11 +1,12 @@
 <div align="center">
-# 👋 Hi, I'm Vladimiras Levinas
 
-**Lead DevOps Engineer | AI Infrastructure | Kubernetes & GitOps Specialist**
 
 ![snake gif](https://raw.githubusercontent.com/vladlevinas/vladlevinas/output/snake.svg)
 <br/>
 
+# 👋 Hi, I'm Vladimiras Levinas
+
+**Lead DevOps Engineer | AI Infrastructure | Kubernetes & GitOps Specialist**
 
 
 📍 Vilnius, Lithuania | 📧 levin@linux.com | 📱 +370 614 28752
@@ -130,11 +131,9 @@ Enterprise-scale analytical platform for commercial banking:
 
 📬 **[Subscribe to my DevOps & AI Infrastructure Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7271019242869665792)** - Weekly insights on Kubernetes, GitOps, AI infrastructure, and platform engineering.
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladlevinas&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladlevinas&layout=compact&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vladlevinas&theme=default)](https://github.com/vladlevinas)
 
 ## 💡 Areas of Expertise
 ```yaml
