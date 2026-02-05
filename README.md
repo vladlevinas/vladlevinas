@@ -131,9 +131,9 @@ Enterprise-scale analytical platform for commercial banking:
 
 📬 **[Subscribe to my DevOps & AI Infrastructure Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7271019242869665792)** - Weekly insights on Kubernetes, GitOps, AI infrastructure, and platform engineering.
 
-## 📈 GitHub Activity
+![GitHub followers](https://img.shields.io/github/followers/vladlevinas?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/vladlevinas?style=social)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vladlevinas&theme=default)](https://github.com/vladlevinas)
 
 ## 💡 Areas of Expertise
 ```yaml
