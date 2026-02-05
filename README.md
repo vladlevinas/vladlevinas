@@ -16,7 +16,7 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=about-dot-me&logoColor=white)](https://3f.media)
 [![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/vladlevinas/vladlevinas/raw/main/CV_Vladimiras_Levinas_2025.pdf)
 
----
+</div>
 
 With 18+ years architecting mission-critical infrastructure in fintech, banking, and government sectors, I specialize in building highly available platforms, implementing GitOps automation, and deploying enterprise AI systems.
 
