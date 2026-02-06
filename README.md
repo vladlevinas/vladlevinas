@@ -21,31 +21,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/vladlevinas?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/vladlevinas?style=social)
 
-</div>
-<div align="center">
-
-<a href="https://www.linkedin.com/in/levinvladimir/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="60"/>
-</a>
-
-<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7271019242869665792">
-<img src="https://img.shields.io/badge/Newsletter-0A66C2?style=for-the-badge&logo=substack&logoColor=white" height="60"/>
-</a>
-
-<a href="https://doc.thedevops.dev/">
-<img src="https://img.shields.io/badge/Tech_Blog-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white" height="60"/>
-</a>
-
-<a href="https://teletype.in/@vladcrypton">
-<img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" height="60"/>
-</a>
-
-<a href="https://github.com/vladlevinas/vladlevinas/raw/main/CV_Vladimiras_Levinas_2025.pdf">
-<img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="60"/>
-</a>
-
-</div>
-
 
 <div align="center">
 
