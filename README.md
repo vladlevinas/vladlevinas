@@ -30,6 +30,8 @@ With 18+ years architecting mission-critical infrastructure in fintech, banking,
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vladlevinas)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vladlevinas" alt="GitHub Streak" /></a>
+
 
 
 
