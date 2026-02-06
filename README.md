@@ -32,20 +32,14 @@
 </div>
 
 
-## 🐳 Docker Hub Monitoring
-
-[![demo-nginx Pulls](https://img.shields.io/docker/pulls/vladcrypto/demo-nginx?style=for-the-badge&logo=docker)](https://hub.docker.com/r/vladcrypto/demo-nginx)
-![Version](https://img.shields.io/docker/v/vladcrypto/demo-nginx?style=for-the-badge&logo=docker)
-
-
-
-
-
-
 
 With 18+ years architecting mission-critical infrastructure in fintech, banking, and government sectors, I specialize in building highly available platforms, implementing GitOps automation, and deploying enterprise AI systems.
 
 
+## 🐳 Docker Hub Monitoring
+
+[![demo-nginx Pulls](https://img.shields.io/docker/pulls/vladcrypto/demo-nginx?style=for-the-badge&logo=docker)](https://hub.docker.com/r/vladcrypto/demo-nginx)
+![Version](https://img.shields.io/docker/v/vladcrypto/demo-nginx?style=for-the-badge&logo=docker)
 
 
 ## 🚀 Current Focus
