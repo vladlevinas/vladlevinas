@@ -34,11 +34,10 @@
 
 ## 🐳 Docker Hub Monitoring
 
-[![demo-nginx Last Push](https://img.shields.io/docker/last-push/vladcrypto/demo-nginx?style=for-the-badge&logo=docker)](https://hub.docker.com/r/vladcrypto/demo-nginx)
 [![demo-nginx Pulls](https://img.shields.io/docker/pulls/vladcrypto/demo-nginx?style=for-the-badge&logo=docker)](https://hub.docker.com/r/vladcrypto/demo-nginx)
+![Version](https://img.shields.io/docker/v/vladcrypto/demo-nginx?style=for-the-badge&logo=docker)
 
-[![test Last Push](https://img.shields.io/docker/last-push/vladcrypto/test?style=for-the-badge&logo=docker)](https://hub.docker.com/r/vladcrypto/test)
-[![test Pulls](https://img.shields.io/docker/pulls/vladcrypto/test?style=for-the-badge&logo=docker)](https://hub.docker.com/r/vladcrypto/test)
+
 
 
 
