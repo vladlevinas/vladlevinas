@@ -28,10 +28,14 @@
 ![Issues](https://img.shields.io/github/issues/vladlevinas/vladlevinas?style=flat-square)
 ![Lines of Code](https://img.shields.io/tokei/lines/github/vladlevinas/vladlevinas?style=flat-square)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=vladlevinas&show_icons=true&theme=tokyonight&hide_border=true)
+
+
 
 
 
 With 18+ years architecting mission-critical infrastructure in fintech, banking, and government sectors, I specialize in building highly available platforms, implementing GitOps automation, and deploying enterprise AI systems.
+![Stars](https://img.shields.io/github/stars/vladlevinas?style=flat-square)
 
 
 
