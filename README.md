@@ -28,6 +28,9 @@
 ![Build](https://img.shields.io/github/actions/workflow/status/vladlevinas/vladlevinas/main.yml?style=flat-square)
 ![Repo Size](https://img.shields.io/github/repo-size/vladlevinas/vladlevinas?style=flat-square)
 [![Last Commit](https://img.shields.io/github/last-commit/vladlevinas/vladlevinas?style=flat-square&logo=github&label=Last%20Commit)](https://github.com/vladlevinas/vladlevinas/commits)
+![Last Push](https://img.shields.io/docker/last-push/vladcrypto/demo-nginx?style=for-the-badge&logo=docker)
+![Version](https://img.shields.io/docker/v/vladcrypto/demo-nginx?style=for-the-badge&logo=docker)
+
 </div>
 
 
