@@ -21,12 +21,12 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/vladlevinas?style=social)
 
 </div>
-<div align="center">
+
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/vladlevinas/vladlevinas?style=flat-square)
 ![Build](https://img.shields.io/github/actions/workflow/status/vladlevinas/vladlevinas/main.yml?style=flat-square)
 
 
-</div>
+
 
 With 18+ years architecting mission-critical infrastructure in fintech, banking, and government sectors, I specialize in building highly available platforms, implementing GitOps automation, and deploying enterprise AI systems.
 
