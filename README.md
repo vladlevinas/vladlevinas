@@ -74,13 +74,13 @@ With 18+ years architecting mission-critical infrastructure in fintech, banking,
 
 ## 📊 Professional Certifications
 
-- 🎖️ Certified Kubernetes Administrator (CKA)
-- 🎖️ HashiCorp Certified: Terraform Associate (003)
-- 🎖️ Prometheus Certified Associate (PCA)
-- 🎖️ OpenTelemetry Certified Associate (OTCA)
-- 🎖️ Linux Foundation Certified IT Associate (LFCA)
-- 🎖️ ITIL Foundation in IT Service Management
-- 🎖️ PMI Project Management Professional – PMBOK
+![CKA](https://img.shields.io/badge/CKA-Kubernetes_Administrator-326CE5?style=flat)
+![Terraform](https://img.shields.io/badge/Terraform_Associate-7B42BC?style=flat)
+![PCA](https://img.shields.io/badge/Prometheus_PCA-E6522C?style=flat)
+![OTCA](https://img.shields.io/badge/OpenTelemetry_OTCA-000000?style=flat)
+![LFCA](https://img.shields.io/badge/LFCA-Linux_Foundation-FCC624?style=flat)
+![PMP](https://img.shields.io/badge/PMP-PMI_PM-1A73E8?style=flat)
+
 
 ## 🏗️ Featured Projects
 
