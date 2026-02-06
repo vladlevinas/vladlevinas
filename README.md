@@ -18,10 +18,13 @@
 [![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/vladlevinas/vladlevinas/raw/main/CV_Vladimiras_Levinas_2025.pdf)
 ![Profile Views](https://komarev.com/ghpvc/?username=vladlevinas&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/vladlevinas?style=social)
-[![Last Commit](https://img.shields.io/github/last-commit/vladlevinas/vladlevinas?style=for-the-badge&logo=github&label=Last%20Deploy)](https://github.com/vladlevinas/vladlevinas/commits)
 ![GitHub User's stars](https://img.shields.io/github/stars/vladlevinas?style=social)
 
 </div>
+[![Last Commit](https://img.shields.io/github/last-commit/vladlevinas/vladlevinas?style=for-the-badge&logo=github&label=Last%20Deploy)](https://github.com/vladlevinas/vladlevinas/commits)
+![Repo Size](https://img.shields.io/github/repo-size/vladlevinas/vladlevinas?style=flat-square)
+![Issues](https://img.shields.io/github/issues/vladlevinas/vladlevinas?style=flat-square)
+
 
 With 18+ years architecting mission-critical infrastructure in fintech, banking, and government sectors, I specialize in building highly available platforms, implementing GitOps automation, and deploying enterprise AI systems.
 
