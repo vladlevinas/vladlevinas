@@ -26,8 +26,7 @@ With 18+ years architecting mission-critical infrastructure in fintech, banking,
 
 ## ⚡ DARK TELEMETRY
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vladlevinas" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 
 
