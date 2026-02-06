@@ -23,6 +23,8 @@
 </div>
 <div align="center">
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/vladlevinas/vladlevinas?style=flat-square)
+![Build](https://img.shields.io/github/actions/workflow/status/vladlevinas/vladlevinas/main.yml?style=flat-square)
+
 
 </div>
 
