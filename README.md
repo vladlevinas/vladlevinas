@@ -26,7 +26,7 @@ With 18+ years architecting mission-critical infrastructure in fintech, banking,
 
 ## ⚡ DARK TELEMETRY
 
-![Streak](https://streak-stats.demolab.com?user=vladlevinas&theme=tokyonight&hide_border=true&v=1)
+![Streak](https://streak-stats.demolab.com?user=vladlevinas&theme=tokyonight&hide_border=true&v=2)
 
 
 
