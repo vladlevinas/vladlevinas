@@ -24,6 +24,9 @@
 
 With 18+ years architecting mission-critical infrastructure in fintech, banking, and government sectors, I specialize in building highly available platforms, implementing GitOps automation, and deploying enterprise AI systems.
 
+![Streak](https://streak-stats.demolab.com?user=vladlevinas&theme=tokyonight&hide_border=true)
+
+
 ## 🚀 Current Focus
 
 - 🔭 **Currently working on:** GitOps delivery automation, CESOP regulatory compliance systems, and enterprise AI knowledge management at [Walletto](https://walletto.eu)
