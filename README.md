@@ -31,7 +31,7 @@
 
 </div>
 
-
+https://github-readme-streak-stats.herokuapp.com?user=vladlevinas&type=json
 
 With 18+ years architecting mission-critical infrastructure in fintech, banking, and government sectors, I specialize in building highly available platforms, implementing GitOps automation, and deploying enterprise AI systems.
 
