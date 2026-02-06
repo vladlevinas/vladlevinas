@@ -20,7 +20,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vladlevinas&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/vladlevinas?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/vladlevinas?style=social)
-
+</div>
 
 <div align="center">
 
