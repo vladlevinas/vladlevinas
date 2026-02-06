@@ -24,6 +24,9 @@
 
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/vladlevinas/vladlevinas?style=flat-square)
 ![Build](https://img.shields.io/github/actions/workflow/status/vladlevinas/vladlevinas/main.yml?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/vladlevinas/vladlevinas?style=flat-square)
+![Issues](https://img.shields.io/github/issues/vladlevinas/vladlevinas?style=flat-square)
+![Lines of Code](https://img.shields.io/tokei/lines/github/vladlevinas/vladlevinas?style=flat-square)
 
 
 
