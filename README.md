@@ -28,12 +28,17 @@
 ![Build](https://img.shields.io/github/actions/workflow/status/vladlevinas/vladlevinas/main.yml?style=flat-square)
 ![Repo Size](https://img.shields.io/github/repo-size/vladlevinas/vladlevinas?style=flat-square)
 [![Last Commit](https://img.shields.io/github/last-commit/vladlevinas/vladlevinas?style=flat-square&logo=github&label=Last%20Commit)](https://github.com/vladlevinas/vladlevinas/commits)
-![Last Push](https://img.shields.io/docker/last-push/vladcrypto/demo-nginx?style=for-the-badge&logo=docker)
-![Version](https://img.shields.io/docker/v/vladcrypto/demo-nginx?style=for-the-badge&logo=docker)
 
 </div>
 
 
+## 🐳 Docker Hub Monitoring
+
+[![demo-nginx Last Push](https://img.shields.io/docker/last-push/vladcrypto/demo-nginx?style=for-the-badge&logo=docker)](https://hub.docker.com/r/vladcrypto/demo-nginx)
+[![demo-nginx Pulls](https://img.shields.io/docker/pulls/vladcrypto/demo-nginx?style=for-the-badge&logo=docker)](https://hub.docker.com/r/vladcrypto/demo-nginx)
+
+[![test Last Push](https://img.shields.io/docker/last-push/vladcrypto/test?style=for-the-badge&logo=docker)](https://hub.docker.com/r/vladcrypto/test)
+[![test Pulls](https://img.shields.io/docker/pulls/vladcrypto/test?style=for-the-badge&logo=docker)](https://hub.docker.com/r/vladcrypto/test)
 
 
 
