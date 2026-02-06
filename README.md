@@ -25,17 +25,17 @@
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/vladlevinas/vladlevinas?style=flat-square)
 ![Build](https://img.shields.io/github/actions/workflow/status/vladlevinas/vladlevinas/main.yml?style=flat-square)
 ![Repo Size](https://img.shields.io/github/repo-size/vladlevinas/vladlevinas?style=flat-square)
-![Issues](https://img.shields.io/github/issues/vladlevinas/vladlevinas?style=flat-square)
-![Lines of Code](https://img.shields.io/tokei/lines/github/vladlevinas/vladlevinas?style=flat-square)
+[![Last Commit](https://img.shields.io/github/last-commit/vladlevinas/vladlevinas?style=flat-square&logo=github&label=Last%20Commit)](https://github.com/vladlevinas/vladlevinas/commits)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vladlevinas&show_icons=true&theme=tokyonight&hide_border=true)
+
+
 
 
 
 
 
 With 18+ years architecting mission-critical infrastructure in fintech, banking, and government sectors, I specialize in building highly available platforms, implementing GitOps automation, and deploying enterprise AI systems.
-![Stars](https://img.shields.io/github/stars/vladlevinas?style=flat-square)
+
 
 
 
