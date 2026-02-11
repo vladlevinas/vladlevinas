@@ -26,7 +26,8 @@
 
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/vladlevinas/vladlevinas?style=flat-square)
 ![Build](https://img.shields.io/github/actions/workflow/status/vladlevinas/vladlevinas/main.yml?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/vladlevinas/vladlevinas?style=flat-square)
+[![Repo Size](https://img.shields.io/github/repo-size/vladlevinas/vladlevinas?style=flat-square)](https://img.shields.io/github/repo-size/vladlevinas/vladlevinas?style=flat-square&cacheSeconds=86400
+)
 [![Last Commit](https://img.shields.io/github/last-commit/vladlevinas/vladlevinas?style=flat-square&logo=github&label=Last%20Commit)](https://github.com/vladlevinas/vladlevinas/commits)
 
 </div>
