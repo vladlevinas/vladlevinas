@@ -15,7 +15,7 @@
 [![Newsletter](https://img.shields.io/badge/Newsletter-0A66C2?style=for-the-badge&logo=substack&logoColor=white)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7271019242869665792)
 [![Tech Blog](https://img.shields.io/badge/Tech_Blog-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white)](https://doc.thedevops.dev/)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://teletype.in/@vladcrypton)
-[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/vladlevinas/vladlevinas/raw/main/CV_Vladimiras_Levinas_2025.pdf)
+<!--[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/vladlevinas/vladlevinas/raw/main/CV_Vladimiras_Levinas_2025.pdf) >
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vladlevinas&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/vladlevinas?style=social)
