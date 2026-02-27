@@ -237,7 +237,7 @@ I'm currently open to:
 - Consulting Projects for Kubernetes & GitOps implementation
 - Speaking Engagements at conferences and meetups
 
-[![Download My CV](https://img.shields.io/badge/📄_Download_Full_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/vladlevinas/vladlevinas/raw/main/CV_Vladimiras_Levinas_2025.pdf)
+<!-- [![Download My CV](https://img.shields.io/badge/📄_Download_Full_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/vladlevinas/vladlevinas/raw/main/CV_Vladimiras_Levinas_2025.pdf) -->
 
 **Let's build something amazing together!** 🚀
 
