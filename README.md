@@ -12,7 +12,8 @@
 📍 Vilnius, Lithuania | 📧 levin@linux.com | 📱 +370 614 28752
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levinvladimir/)
-[![Tech Blog](https://img.shields.io/badge/github-repo-blue?logo=github)](https://doc.thedevops.dev/)
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white)](https://doc.thedevops.dev/)
+[![Github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://git.thedevops.dev/admin/k3s-gitops)
 
 
 <!--[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/vladlevinas/vladlevinas/raw/main/CV_Vladimiras_Levinas_2025.pdf) -->
